@@ -1,0 +1,11 @@
+{
+    "code-runner.clearPreviousOutput": true,
+    "workbench.colorTheme": "Atom One Light",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.wordWrap": "on",
+    "editor.accessibilityPageSize": 10,
+    "editor.fontSize": 18,
+    "editor.fontFamily": "\"operator mono\", Consolas, 'Courier New', monospace",
+    "debug.terminal.clearBeforeReusing": true,
+    "terminal.integrated.fontSize": 18
+}
